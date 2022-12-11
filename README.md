@@ -1,3 +1,1 @@
-# Kosmos
-
-https://art-om.github.io/Kosmos/
+## https://art-om.github.io/Kosmos/
